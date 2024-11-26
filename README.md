@@ -2,7 +2,7 @@
 
 In today’s fast-paced financial markets, staying ahead of the curve is more challenging than ever. Automated trading has become an essential part of trading to maximize profitability, reduce human error, and seize opportunities around the clock. That’s where 4xPip’s [custom bots development in MQL5](https://4xpip.com/custom-bots) comes in. We specialize in creating custom trading solutions for the MetaTrader 5 (MT5) platform, helping you to turn your strategies into Automatic EA robot.
 
-![image](https://github.com/user-attachments/assets/08da96d5-3c59-4bd6-96b7-c645363a5149)
+![image](https://github.com/user-attachments/assets/2c0c464f-44b6-41f4-901b-4beb14a021da)
 
 # 4xPip specializes in:
 1.	Expert Advisor EA development Mql5
